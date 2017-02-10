@@ -1,0 +1,23 @@
+img {
+    width: 70px;
+    height: 70px;
+}
+
+.Media-body {
+    margin-left: 110px;
+    margin-top: -50px;
+}
+
+#titre {
+    text-align: center;
+    font-size: 80px;
+}
+
+.items {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    flex-direction: row;
+}
